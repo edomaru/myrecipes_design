@@ -1,0 +1,16 @@
+body {
+	padding-top: 70px;
+	background: #f7f7f7;
+	color: #484432;
+}
+
+/* === Recipe Box === */
+.recipe-box .box-image {
+	max-width: 100%;
+	overflow: hidden;
+}
+
+.box-image img {
+	width: 100%;
+	border: none;
+}
